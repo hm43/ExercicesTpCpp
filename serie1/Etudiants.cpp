@@ -38,7 +38,7 @@ float moyenne(etudiant etud) {
 
 	return dividende / diviseur;
 }
-
+/*
 int main() {
 	//// 3. Créer 3 variables d'étudiants avec l'insertion des données.
 	etudiant etudiants[3];
@@ -67,3 +67,4 @@ int main() {
 	
 	return 0;
 }
+*/

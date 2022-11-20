@@ -65,7 +65,7 @@ public:
 		return sqrt(pow(this->x - p.x, 2) + pow(this->y - p.y,2));
 	}
 };
-
+/*
 int main() {
 	//// 5. Créer 3 objects
 	// le premier en utilisant le constructeur par default
@@ -81,4 +81,4 @@ int main() {
 	cout << "La distance entre les points "<<p0.coordonnees()<<" et "<<p1.coordonnees()<<" est: "<<p0.distance(p1)<<endl;
 
 	return 0;
-}
+}*/
