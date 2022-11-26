@@ -97,7 +97,7 @@ public:
 		}
 	}
 };
-
+/*
 int main() {
 	PileChar p1(10);
 	p1.empiler('s');
@@ -135,4 +135,4 @@ int main() {
 
 
 	return 0;
-}
+}*/
