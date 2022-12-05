@@ -8,3 +8,7 @@ Pour exécuter la solution d'un exercice n'oubliez pas de commenter/décommenter
 1. Etudiants.cpp
 2. Point.cpp
 3. PileChar.cpp
+
+#Liste des exercices sous serie2/:
+1. Fraction.cpp
+2. Surcharge.cpp
