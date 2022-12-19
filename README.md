@@ -14,3 +14,4 @@ Pour exécuter la solution d'un exercice n'oubliez pas de commenter/décommenter
 2. Surcharge.cpp
 3. Livre_Etagere.cpp
 4. Personnel.cpp
+5. ObjetAssure.cpp
