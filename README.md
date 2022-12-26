@@ -15,3 +15,6 @@ Pour exécuter la solution d'un exercice n'oubliez pas de commenter/décommenter
 3. [Livre_Etagere.cpp](serie2/Livre_Etagere.cpp)
 4. [Personnel.cpp](serie2/Personnel.cpp)
 5. [ObjetAssure.cpp](serie2/ObjetAssure.cpp)
+
+#Liste des exercices sous serie3/:
+1. [Figure.cpp](serie3/Figure.cpp) (jusqu'a la question 9)
