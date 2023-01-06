@@ -17,4 +17,7 @@ Pour exécuter la solution d'un exercice n'oubliez pas de commenter/décommenter
 5. [ObjetAssure.cpp](serie2/ObjetAssure.cpp)
 
 #Liste des exercices sous serie3/:
-1. [Figure.cpp](serie3/Figure.cpp) (jusqu'a la question 9)
+1. [Figure.cpp](serie3/Figure.cpp)
+
+# Le dossier [ressources](ressources) contient les documents de revision
+
